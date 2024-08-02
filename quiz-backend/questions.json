@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Quel est le nom du protagoniste principal de *One Piece* ?",
+    "options": ["Monkey D. Luffy", "Roronoa Zoro", "Sanji", "Nami"],
+    "answer": "Monkey D. Luffy",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le fruit du démon que Luffy a mangé ?",
+    "options": ["Gomu Gomu no Mi", "Mera Mera no Mi", "Pika Pika no Mi", "Hie Hie no Mi"],
+    "answer": "Gomu Gomu no Mi",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le nom du bateau principal de l'équipage du Chapeau de Paille ?",
+    "options": ["Going Merry", "Thousand Sunny", "Red Force", "Ocean's Dream"],
+    "answer": "Going Merry",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le nom de la première île visitée par Luffy et son équipage ?",
+    "options": ["Loguetown", "Arlong Park", "Orange Town", "Whiskey Peak"],
+    "answer": "Orange Town",
+    "difficulty": "facile"
+  },
+  {
+    "question": "Quel est le nom du capitaine des Pirates de Barbe Blanche ?",
+    "options": ["Edward Newgate", "Gol D. Roger", "Shanks", "Kaido"],
+    "answer": "Edward Newgate",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle est la technique signature de Zoro ?",
+    "options": ["Santoryu", "Nitoryu", "Ittoryu", "Rokushiki"],
+    "answer": "Santoryu",
+    "difficulty": "moyen"
+  },,
+  {
+    "question": "Quel est le nom du commandant de la 3e division des Pirates de Barbe Blanche ?",
+    "options": ["Ace", "Jozu", "Marco", "Thatch"],
+    "answer": "Ace",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quelle est la vraie identité de Nico Robin ?",
+    "options": ["Daughter of the Devil", "The Devil's Child", "The Revolutionary", "The Lost Princess"],
+    "answer": "The Devil's Child",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Quel est le nom du village natal de Nami ?",
+    "options": ["Coco Village", "Kokoyashi Village", "Arlong Park", "Shells Town"],
+    "answer": "Kokoyashi Village",
+    "difficulty": "moyen"
+  },
+  {
+    "question": "Qui est le chef des Pirates de Don Quichotte ?",
+    "options": ["Doflamingo", "Law", "Kaido", "Blackbeard"],
+    "answer": "Doflamingo",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom de l'île où Luffy a appris le Haki ?",
+    "options": ["Sabaody Archipelago", "Amazon Lily", "Ruskaina", "Enies Lobby"],
+    "answer": "Ruskaina",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom de l'ancien membre de l'équipage de Gol D. Roger qui est maintenant l'un des Quatre Empereurs ?",
+    "options": ["Shanks", "Big Mom", "Kaido", "Blackbeard"],
+    "answer": "Shanks",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom du fruit du démon de Kizaru ?",
+    "options": ["Pika Pika no Mi", "Mera Mera no Mi", "Gura Gura no Mi", "Hie Hie no Mi"],
+    "answer": "Pika Pika no Mi",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom du pays natal de Sanji ?",
+    "options": ["Alabasta", "Basil Hawkins", "Baratie", "Wano Country"],
+    "answer": "Baratie",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom de l'ennemi juré de Luffy qui a détruit son village natal ?",
+    "options": ["Arlong", "Crocodile", "Enel", "Doflamingo"],
+    "answer": "Arlong",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quelle est la particularité du fruit du démon de Marco ?",
+    "options": ["Il est un Zoan Mythique", "Il permet de manipuler le feu", "Il est un Logia", "Il permet de se transformer en Phoenix"],
+    "answer": "Il permet de se transformer en Phoenix",
+    "difficulty": "difficile"
+  },
+  {
+    "question": "Quel est le nom du chef des Pirates de Don Quichotte avant Doflamingo ?",
+    "options": ["Doflamingo", "Moria", "Don Quichotte", "Riku Doldo"],
+    "answer": "Don Quichotte",
+    "difficulty": "très difficile"
+  },
+  {
+    "question": "Quelle est la véritable nature du fruit du démon de Blackbeard ?",
+    "options": ["Il permet d'absorber les pouvoirs des autres fruits du démon", "Il permet de manipuler les ténèbres", "Il permet de se transformer en loup", "Il est un Logia de magma"],
+    "answer": "Il permet d'absorber les pouvoirs des autres fruits du démon",
+    "difficulty": "très difficile"
+  },
+  {
+    "question": "Quel est le nom de la technique utilisée par Luffy pour attaquer avec ses poings en élastique ?",
+    "options": ["Gomu Gomu no Pistol", "Gomu Gomu no Gatling", "Gomu Gomu no Bazooka", "Gomu Gomu no Jet Punch"],
+    "answer": "Gomu Gomu no Pistol",
+    "difficulty": "très difficile"
+  },
+  {
+    "question": "Quel est le nom du clan dont appartient l'arme légendaire Pluton ?",
+    "options": ["Ancient Weapons", "Celestial Dragons", "D.", "Orochimaru Clan"],
+    "answer": "Ancient Weapons",
+    "difficulty": "très difficile"
+  },
+  {
+    "question": "Quel est le nom du fruit du démon de Kuma ?",
+    "options": ["Nikyu Nikyu no Mi", "Bari Bari no Mi", "Mero Mero no Mi", "Zushi Zushi no Mi"],
+    "answer": "Nikyu Nikyu no Mi",
+    "difficulty": "très difficile"
+  },
+  {
+    "question": "Quel est le nom du premier commandant des Pirates de Roger ?",
+    "options": ["Rayleigh", "Garp", "Sengoku", "Shiki"],
+    "answer": "Rayleigh",
+    "difficulty": "très difficile"
+  },
+  {
+    "question": "Quel est le nom de la technique secrète de l'Amiral Akainu ?",
+    "options": ["Magma Fist", "Magma Punch", "Sakazuki Koushu", "Maguma Kuro"],
+    "answer": "Magma Fist",
+    "difficulty": "très difficile"
+  },
+  {
+    "question": "Quel est le vrai nom de l'ennemi de Luffy connu sous le nom de 'Don Quichotte Doflamingo' ?",
+    "options": ["Don Quichotte", "Doflamingo", "Doffy", "Doll"],
+    "answer": "Don Quichotte",
+    "difficulty": "très difficile"
+  }
+]
